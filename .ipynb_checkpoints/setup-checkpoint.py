@@ -5,6 +5,7 @@ import os
 setuptools.setup(
     name="nbresuse",
     version='0.3.3',
+    
     url="https://github.com/yuvipanda/nbresuse",
     author="Yuvi Panda",
     description="Simple Jupyter extension to show how much resources (RAM) your notebook is using",
